@@ -1,0 +1,15 @@
+{
+    "name": "daju/database-models",
+    "description": "The models of vcenter database and daju database",
+    "type": "metapackage",
+    "authors": [{
+        "name": "Wellington Barbosa",
+        "email": "carneirobarbosawellington@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Daju\\Models": "Models/"
+        }
+    }
+}
