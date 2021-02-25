@@ -6,6 +6,7 @@
         "name": "Wellington Barbosa",
         "email": "carneirobarbosawellington@gmail.com"
     }],
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
