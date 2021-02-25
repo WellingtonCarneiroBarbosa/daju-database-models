@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models\PGSQL;
+namespace Daju\Models\PGSQL;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 
